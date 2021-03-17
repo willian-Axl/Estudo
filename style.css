@@ -6,3 +6,16 @@
 body {
     background-color: aqua;
 }
+
+h2,
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2,
+h4:hover {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: red;
+    background-color: rgba(0, 0, 0, 0.637);
+}
